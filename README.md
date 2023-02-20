@@ -1,5 +1,4 @@
-<h1 align="center">Greetings Traveler!</h1>
-<h1 align="center">I am Björn Noctiluca</h1>
+<h1 align="center">Björn Noctiluca</h1>
 <h3 align="center">Fullstack .Net Developer and Instructor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thepinkbear&label=Profile%20views&color=0e75b6&style=flat" alt="thepinkbear" /> </p>
