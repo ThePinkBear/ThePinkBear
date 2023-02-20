@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/thepinkbear" target="blank"><img src="https://img.shields.io/twitter/follow/thepinkbear?logo=twitter&style=for-the-badge" alt="thepinkbear" /></a> </p>
 
-- 🔭 I’m currently working on **SaltHub**
-
-- 🌱 I’m currently learning **.Net, React, AWS, Typescript**
+- I’m currently learning **.Net, React, AWS, Typescript**
 
 - 📫 How to reach me **bjorn.noctiluca@appliedtechnology.se**
 
