@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/BearThePink" target="blank"><img src="https://img.shields.io/twitter/follow/BearThePink?logo=twitter&style=for-the-badge" alt="BearThePink" /></a> </p>
 
-- I’m currently learning **.Net, React, AWS, Typescript**
+- I’m currently learning **.Net, React, AWS, Typescript, ChatGPT**
 
 - 📫 How to reach me **bjorn.noctiluca@appliedtechnology.se**
 
