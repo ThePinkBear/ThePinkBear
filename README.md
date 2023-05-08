@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thepinkbear&label=Profile%20views&color=0e75b6&style=flat" alt="thepinkbear" /> </p>
 
-/* <p align="left"> <a href="https://twitter.com/BearThePink" target="blank"><img src="https://img.shields.io/twitter/follow/BearThePink?logo=twitter&style=for-the-badge" alt="BearThePink" /></a> </p> */
+// <p align="left"> <a href="https://twitter.com/BearThePink" target="blank"><img src="https://img.shields.io/twitter/follow/BearThePink?logo=twitter&style=for-the-badge" alt="BearThePink" /></a> </p>
 
 - I’m currently learning **.Net, React, AWS, Typescript**
 
