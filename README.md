@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bjorn.noctiluca@appliedtechnology.se**
 
-- My portfolio **bjornnoctiluca.se** (Work in progress)
+- My portfolio **https://bjornnoctiluca.se** (Work in progress)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
