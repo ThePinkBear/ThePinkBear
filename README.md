@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thepinkbear&label=Profile%20views&color=0e75b6&style=flat" alt="thepinkbear" /> </p>
 
-- I’m currently learning **.Net, React, AWS, Typescript**
+- I’m currently learning **.Net, Virtual Machines and Server Technology, API integrations and Integrated security systems**
 
-- 📫 How to reach me **bjorn.noctiluca@appliedtechnology.se**
+- 📫 How to reach me **bjorn.noctiluca@outlook.com**
 
 - My portfolio **https://bjornnoctiluca.se** (Work in progress)
 
