@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bjorn.noctiluca@outlook.com**
 
-- My portfolio **https://bjornnoctiluca.se** (Work in progress)
+- My portfolio **https://bjornnoctiluca.se** (Work in progress **Halted** Image bucket down while employed.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
