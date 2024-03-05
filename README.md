@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thepinkbear&label=Profile%20views&color=0e75b6&style=flat" alt="thepinkbear" /> </p>
 
-- I’m currently learning: **Angular and AWS Lambda**
+- Upcoming learning goals: **Angular and AWS Lambda**
 
 - 📫 How to reach me **bjorn.noctiluca@outlook.com**
 
