@@ -1,6 +1,8 @@
 <h1 align="center">Björn Noctiluca</h1>
 <h3 align="center">Fullstack .Net Developer and Instructor.</h3>
 
+<h2>Currently consulting at a company that uses gitLab for the past year, GitHub stats do not reflect my developer journey.</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thepinkbear&label=Profile%20views&color=0e75b6&style=flat" alt="thepinkbear" /> </p>
 
 - Upcoming learning goals: **Angular and AWS Lambda**
